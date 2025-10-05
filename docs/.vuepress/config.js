@@ -43,7 +43,7 @@ export default defineUserConfig({
       ]
     },
 
-    repo: 'RasaXalidQadr/my-portfolio',
+  repo: 'RasaXalidQadr/RasaXalidQadr.github.io',
     repoLabel: 'GitHub',
 
     editLink: false,
@@ -54,5 +54,6 @@ export default defineUserConfig({
   }),
 
   bundler: viteBundler(),
-  base: '/my-portfolio/',
+  // Set base to '/' because this repository is published at the user-pages root (username.github.io)
+  base: '/',
 })
