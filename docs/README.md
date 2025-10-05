@@ -20,36 +20,47 @@ footer: Built with VuePress | RASA XALID QADR - Software Engineering Student
 
 <div class="clean-portfolio">
 
-## About Me
+# RASA XALID QADR
 
-**Qala Dizah, Sulaymaniyah**  
- 964+7501577142  
- [rasaxalid23@gmail.com](mailto:rasaxalid23@gmail.com)  
+**Software Engineering Student | Web & Database Enthusiast**
+
+Qala Dizah, Sulaymaniyah  
+964 7501577142  
+[rasaxalid23@gmail.com](mailto:rasaxalid23@gmail.com)  
 [GitHub: RasaXalidQadr](https://github.com/RasaXalidQadr)
 
-Passionate Software Engineering student with a strong interest in programming, databases, and web development. Quick to learn new technologies and eager to apply my knowledge through projects, internships, and teamwork. Motivated to build practical skills and grow into a professional developer.
+Passionate Software Engineering student with a strong interest in programming, databases, and web development. Quick to learn new technologies and eager to apply my knowledge through projects, internships, and teamwork.
 
+---
 
 ## Projects
 
-  Designed and developed a responsive website with multiple pages for a restaurant, including menu display, booking, and contact form.
+- **Restaurant Website (SAVORIA)** — Responsive multi-page website with menu, booking, and contact form (HTML/CSS/JS).
+- **Database Management System** — Relational database using MySQL/Oracle SQL with tables, relationships, CRUD operations, and seed data.
 
-  Built a relational database using MySQL/Oracle SQL with tables, relationships, CRUD operations, and sample data.
-
+---
 
 ## Education
 
-  2022 - Present
+- **University of Salahaddin — Software Engineering** (2022 - Present)
+- **University of Charmo — Applied Computer** (2021 - 2022)
+  - Placed first in class during first stage; transferred to University of Salahaddin.
 
-  2021 – 2022  
-  Placed first in my class my first stage. Got promoted to University of Salahaddin.
-
+---
 
 ## Skills
 
+- Programming: Java, C/C++, Python
+- Web: HTML5, CSS3, JavaScript
+- Databases: MySQL, Oracle SQL (schema design, queries, optimization)
+- Tools: Git, VS Code, SQL Developer
 
+---
 
 ## Languages
 
+- Kurdish — Native
+- English — Advanced (C1)
+- Arabic — Intermediate (B2)
 
 </div>

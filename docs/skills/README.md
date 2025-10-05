@@ -31,4 +31,7 @@
 - Kurdish (Native)
 - English (Advanced)
 - Arabic (Intermediate)
-  padding: 2rem;
+ 
+## Education & Learning
+
+- Currently exploring advanced Laravel concepts, API architecture, and cloud deployment (AWS).
